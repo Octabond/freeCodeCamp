@@ -45,9 +45,9 @@ let userActivity = {
   }
 };
 
-// change code below this line
+// cambia el código debajo de esta línea
 
-// change code above this line
+// cambia el código arriba de esta línea
 
 console.log(userActivity);
 
